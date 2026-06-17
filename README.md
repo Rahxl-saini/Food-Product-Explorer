@@ -4,13 +4,13 @@ A web application to search, filter and explore food products using the [OpenFoo
 
 ## Features
 
-<!-- - 🔍 **Search** products by name
+- 🔍 **Search** products by name
 - 📷 **Barcode lookup** — jump directly to a product page
 - 🗂️ **Category filter** (beverages, dairy, snacks, etc.)
 - ↕️ **Sort** by name (A-Z / Z-A) and nutrition grade (A→E / E→A)
 - ♾️ **Pagination** via "Load more"
 - 📄 **Product detail page** — image, ingredients, nutrition table, labels
-- 📱 **Fully responsive** (mobile → desktop) -->
+- 📱 **Fully responsive** (mobile → desktop)
 
 ## Tech Stack
 
